@@ -4,6 +4,12 @@ Welcome to my site!  Here, you'll find some examples of my recent work as a Tech
 
 Some of the work on this site is proprietary/NDA and posted with the owner's permission.  Those repos are private.  Feel free to contact me for access!
 
+See also:
+* My [demo reels](https://vimeo.com/annabd)
+* [LinkedIn](https://www.linkedin.com/in/annadickinson)
+* I even have a variety of [film credits](https://www.imdb.com/name/nm1639869)!
+
+  
 <!--
 **annabd351/annabd351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
