@@ -9,7 +9,8 @@ See also:
 * [LinkedIn](https://www.linkedin.com/in/annadickinson)
 * I even have a variety of [film credits](https://www.imdb.com/name/nm1639869)!
 
-  
+*WIP* more on the way, soon!
+
 <!--
 **annabd351/annabd351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
