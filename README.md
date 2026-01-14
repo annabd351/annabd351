@@ -1,4 +1,8 @@
-## Hi there 👋
+# Anna Dickinson • Tech Artist • Engineer • Generalist • Programmer
+
+Welcome to my site!  Here, you'll find some examples of my recent work as a Technical Artist in the Games industry.  I've been coding professionally for quite some time, so on this site, you'll also find examples from my days as an *iOS Developer*.
+
+Some of the work on this site is proprietary/NDA and posted with the owner's permission.  Those repos are private.  Feel free to contact me for access!
 
 <!--
 **annabd351/annabd351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
