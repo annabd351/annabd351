@@ -2,7 +2,9 @@
 
 Welcome to my site!  Here, you'll find some examples of my recent work as a Technical Artist in the Games industry.  I've been coding professionally for quite some time, so on this site, you'll also find examples from my days as an *iOS Developer*.
 
-Some of the work on this site is proprietary/NDA and posted with the owner's permission.  Those repos are private.  Feel free to contact me for access!
+Some of the work on this site is proprietary/NDA.  Those repos are private.  Feel free to contact me for access!
+
+[Unreal C++ code samples](https://github.com/annabd351/TechArt-Private)
 
 See also:
 * My [demo reels](https://vimeo.com/annabd)
