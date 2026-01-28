@@ -4,7 +4,9 @@ Welcome to my site!  Here, you'll find some examples of my recent work as a Tech
 
 [Unreal Tech Art work/C++ code samples](https://github.com/annabd351/UnrealTechArt)
 
-See also:
+See [Documents](https://github.com/annabd351/UnrealTechArt/tree/main/Documents) for writing samples, system, and tool designs/specs.
+
+And:
 * My [demo reels](https://vimeo.com/annabd)
 * [LinkedIn](https://www.linkedin.com/in/annadickinson)
 * I even have a variety of [film credits](https://www.imdb.com/name/nm1639869)!
