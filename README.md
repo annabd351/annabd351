@@ -5,6 +5,7 @@ Welcome to my site!  Here, you'll find some examples of my recent work as an Eng
 ## Professional Life
 * [LinkedIn](https://www.linkedin.com/in/annadickinson)
 * My [demo reels](https://vimeo.com/annabd)
+* [Documentation](https://github.com/annabd351/UnrealTechArt/tree/main/Documents) I've written
 * I even have a variety of [film credits](https://www.imdb.com/name/nm1639869)!
 
 Please contact me via LinkedIn if you'd like to chat!
